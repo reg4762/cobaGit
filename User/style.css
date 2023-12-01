@@ -1,0 +1,52 @@
+
+.header {
+    background-color: #9BBEC8;
+    color: rgb(9, 8, 8);
+    text-align: left;
+    padding: 20px 0;
+    height: 80px;
+}
+
+.header #judul {
+    display: inline-block;
+    margin: 0;
+}
+
+
+.main {
+    display: flex;
+}
+
+
+.kotakSamping {
+    flex: 1;
+    background-color: #164863; 
+    padding: 20px;
+    width: 50px;
+    color: white;
+}
+
+.list-group-item-action{
+    background-color: #427D9D;
+    color: white;
+}
+
+.container {
+    flex: 5;
+    background-color: #DDF2FD; 
+    padding: 20px;
+}
+
+.searching{
+    align-self: 0; 
+}
+
+.head{
+    background-color:#9BBEC8;
+}
+
+.isi {
+    background-color: white;
+}
+
+
